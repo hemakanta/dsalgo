@@ -1,2 +1,2 @@
 # dsalgo
-DS and ALGO
+Data structure and Algorithms. 
